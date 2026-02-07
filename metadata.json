@@ -1,9 +1,0 @@
-
-{
-  "name": "KisanDost - Advisory & Protection",
-  "description": "An AI-powered agricultural companion for farmers providing live mandi rates, product verification via scanning, and expert farming advisory.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
